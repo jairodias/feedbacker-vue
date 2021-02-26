@@ -1,0 +1,53 @@
+insert into contratos_ver (id_contrato_ver, tipo, ver, versao, publico, txt, novo, criado_em)
+VALUES (677196,4,1,'Fevereiro 2021', 0,'<p class="MsoNormal" align="center" style="text-align:center">
+    <b>ADITAMENTO MAJORAÇÃO - MODALIDADES FIT E SMART MOBILIÁRIA</b>
+</p>
+    
+<p class="MsoNormal" style="text-align:justify">
+<o:p>&nbsp;</o:p></p><p class="MsoNormal" style="text-align:justify">Pelo presente instrumento
+eletrônico, <b>CREDPAGO SERVIÇOS DE COBRANÇA S/A</b>, pessoa jurídica de
+direito privado, inscrita no CNPJ/MF sob o nº 25.027.928/0001-90, com sede na
+cidade de Curitiba, Estado do Paraná, na Rua Visconde do Rio Branco, 1.488, 5º
+andar, sala n.º 501, Centro, CEP: 80.420-210 (doravante “<b>CREDPAGO</b>”),
+apresenta os Termos e Condições Gerais dos Serviços <b>CREDPAGO</b> (doravante
+“Instrumento Adicional”).<o:p></o:p></p>
+
+<p class="MsoNormal" style="text-align:justify">O aceite deste Instrumento Adicional significa que a <b>Imobiliária</b> está de acordo com os termos e
+condições a seguir expostos, passando a estar sujeita a eles por toda a vigência da contratação dos Serviços <b>CREDPAGO</b>, a partir da data do seu
+efetivo aceite.<o:p></o:p></p>
+
+<p class="MsoNormal" style="text-align:justify"><b>&nbsp;</b></p><p class="MsoNormal" style="text-align:justify">
+<b>VERSÃO ACEITA EM:&nbsp; FEVEREIRO DE 2021.<o:p></o:p></b></p><p class="MsoNormal" style="text-align:justify"><b>&nbsp;</b></p>
+
+<p class="MsoNormal" style="text-align:justify"><b>TERMOS DEFINIDOS<o:p></o:p></b></p>
+<p class="MsoNormal" style="text-align:justify">Aplicam-se ao presente Instrumento Adicional, todos os Termos Definidos nos Termos e Condições Gerais
+dos Serviços CREDPAGO. <o:p></o:p></p>
+
+<p class="MsoNormal" style="text-align:justify"><b>&nbsp;</b></p><p class="MsoNormal" style="text-align:justify"><b>1. DO OBJETO<o:p></o:p></b></p>
+<p class="MsoNormal" style="text-align:justify">1.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Objeto:&nbsp; O presente
+Instrumento Adicional estabelece termos e condições adicionais dos Serviços CREDPAGO,
+descritos nos TERMOS E CONDIÇÕES DOS SERVIÇOS CREDPAGO (TCG) já aceito e
+assinado eletronicamente pela Imobiliária, neste ato representada por seu
+administrador nos termos de seu Contrato Social, (“<b>Imobiliária</b>”)
+conforme Cláusulas e disposições seguir.<o:p></o:p></p>
+
+<p class="MsoNormal" style="text-align:justify"><b>2.&nbsp; DA TAXA CREDPAGO – MAJORAÇÃO DAS MODALIDADES FIT E SMART.<o:p></o:p></b></p>
+<p class="MsoNormal" style="text-align:justify">2.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Acordam as partes que a <b>Imobiliária</b>, a seu critério
+e mediante aceite do presente aditivo, poderá aumentar o Valor Informado <u>de 12 vezes para 20 vezes na modalidade FIT</u>, e aumentar o Valor Informado de <u>16
+vezes para 30 vezes na modalidade SMART</u>.<o:p></o:p></p>
+
+<p class="MsoNormal" style="text-align:justify"><b>3.&nbsp; DA TAXA DE SAÍDA.<o:p></o:p></b></p>
+<p class="MsoNormal" style="text-align:justify">2.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<u>Taxa de Saída:</u> A <b>CREDPAGO</u> concorda em conceder um limite adicinal de até <u>05 (cinco) vezes</u> o Valor Contratado vigente, a ser utilizado exclusivamente
+para pagamento de valores relativos à taxa de saída. O limite adicional poderá ser utilizado na hipótese do limite estabelecido no Item "Custos de saída" ter sido integralmente
+utilizado e haver valores inadimplidos a título de taxa de saída.
+.<o:p></o:p></p>
+
+<p class="MsoNormal" style="text-align:justify"><b>4. DISPOSIÇÕES FINAIS<o:p></o:p></b></p><p class="MsoNormal" style="text-align:justify"><b>3.1</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ratificação: As demais disposições constantes nos Termos e
+Condições Gerais dos Serviços CREDPAGO. <o:p></o:p></p><p class="MsoNormal" style="text-align:justify"><o:p>&nbsp;</o:p></p><p class="MsoNormal" style="margin-bottom:0cm;text-align:justify"><b>Imobiliária ZAMPIERI
+ALUGUEIS LTDA<o:p></o:p></b></p><p class="MsoNormal" style="margin-bottom:0cm;text-align:justify"><b>CNPJ/MF sob
+o nº 22.821.129/0001-01<o:p></o:p></b></p><p class="MsoNormal" style="margin-bottom:0cm;text-align:justify"><b>&nbsp;</b></p><p class="MsoNormal" style="margin-bottom:0cm;text-align:justify"><b>&nbsp;</b></p><p class="MsoNormal" style="margin-bottom:0cm;text-align:justify"><b>CREDPAGO
+SERVIÇOS DE COBRANÇA S/A<o:p></o:p></b></p><p>
+
+</p><p class="MsoNormal" style="margin-bottom:0cm;text-align:justify"><b>CNPJ/MF sob
+o nº 25.027.928/0001-90<o:p></o:p></b></p>',1, now())

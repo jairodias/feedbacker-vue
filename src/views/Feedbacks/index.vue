@@ -1,5 +1,5 @@
 <template>
-    <h1>Feedbacks</h1>
+    <h1>Feedback1s</h1>
 </template>
 
 <script>
